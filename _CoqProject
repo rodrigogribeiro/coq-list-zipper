@@ -1,0 +1,8 @@
+-R . zipper
+
+Tactics/Crush.v
+Tactics/LibTactics.v
+Tactics/Tactics.v
+Data/Zipper.v
+Tests/TestZipper.v
+Proofs/ZipperProperties.v
